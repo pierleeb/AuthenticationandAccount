@@ -1,4 +1,4 @@
-# Páginas de Autenticação e Conta
+# Authentication and Account
 
 Este repositório contém páginas HTML e CSS para criar uma interface de usuário de autenticação, incluindo páginas de login, alteração de senha e criação de conta. As páginas foram desenvolvidas com um design moderno e responsivo, utilizando HTML, CSS e JavaScript.
 
@@ -22,7 +22,7 @@ Este repositório contém páginas HTML e CSS para criar uma interface de usuár
 1. Clone o repositório para o seu ambiente de desenvolvimento local.
 
    ```bash
-   git clone https://github.com/pierleeb/nome-do-repositorio.git
+   git clone https://github.com/pierleeb/AuthenticationandAccount.git
    ```
 
 2. Abra as páginas HTML no seu navegador favorito.
@@ -44,6 +44,3 @@ Este projeto é licenciado sob a [Licença MIT](LICENSE), o que significa que vo
 ---
 
 Desenvolvido por [pierleeb](https://github.com/pierleeb)
-```
-
-Lembre-se de personalizar as seções com as informações específicas do seu projeto.
