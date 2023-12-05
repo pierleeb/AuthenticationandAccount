@@ -39,7 +39,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ## Licença
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE), o que significa que você pode usá-lo, modificá-lo e distribuí-lo livremente. Veja o arquivo LICENSE para mais detalhes.
+Este projeto é licenciado sob a [Licença MIT](LICENSE.txt), o que significa que você pode usá-lo, modificá-lo e distribuí-lo livremente. Veja o arquivo LICENSE para mais detalhes.
 
 ---
 
