@@ -1,0 +1,222 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #ff8a00, #e52e71);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.login-container {
+    background-color: #fff;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    overflow: hidden;
+    width: 300px;
+}
+
+.login-form {
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: #ff8a00;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    outline: none;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background: linear-gradient(135deg, #e52e71, #ff8a00);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: linear-gradient(135deg, #ff8a00, #e52e71);
+}
+
+.social-buttons {
+    margin-top: 20px;
+}
+
+.facebook-btn, .google-btn {
+    width: 100%;
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.facebook-btn {
+    background-color: #1877f2;
+}
+
+.google-btn {
+    background-color: #4285f4;
+}
+
+.facebook-btn i, .google-btn i {
+    margin-right: 10px;
+}
+
+.links {
+    text-align: center;
+    margin-top: 15px;
+    color: #555;
+}
+
+.forgot-password, .signup {
+    color: #555;
+    text-decoration: none;
+}
+
+.divider {
+    margin: 0 10px;
+}
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #ff8a00, #e52e71);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.login-container {
+    background-color: #fff;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    overflow: hidden;
+    width: 300px;
+}
+
+.login-form {
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: #ff8a00;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    outline: none;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background: linear-gradient(135deg, #e52e71, #ff8a00);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: linear-gradient(135deg, #ff8a00, #e52e71);
+}
+
+.social-buttons {
+    margin-top: 20px;
+}
+
+.facebook-btn, .google-btn {
+    width: 100%;
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.facebook-btn {
+    background-color: #1877f2;
+}
+
+.google-btn {
+    background-color: #4285f4;
+}
+
+.facebook-btn i, .google-btn i {
+    margin-right: 10px;
+}
+
+.links {
+    text-align: center;
+    margin-top: 15px;
+    color: #555;
+}
+
+.forgot-password, .signup {
+    color: #555;
+    text-decoration: none;
+}
+
+.divider {
+    margin: 0 10px;
+}
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #ff8a00, #e52e71);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: #fff; /* Cor padrão do texto */
+}
+
+/* Restante do conteúdo do arquivo styles.css permanece inalterado */

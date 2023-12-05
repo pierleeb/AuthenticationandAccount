@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <title>Login</title>
+</head>
+<body>
+
+    <div class="login-container">
+        <form class="login-form" id="login-form">
+            <h2>Login</h2>
+            <div class="input-group">
+                <label for="username">Usuário:</label>
+                <input type="text" id="username" name="username" required>
+            </div>
+            <div class="input-group">
+                <label for="password">Senha:</label>
+                <input type="password" id="password" name="password" required>
+            </div>
+            <button type="submit">Entrar</button>
+
+            <div class="links">
+                <a href="#" class="forgot-password" onclick="showForgotPassword()">Esqueci a senha?</a>
+                <span class="divider"> | </span>
+                <a href="#" class="signup" onclick="showSignup()">Cadastre-se</a>
+            </div>
+
+            <div class="social-buttons">
+                <button class="facebook-btn"><i class="fab fa-facebook-f"></i> Login com Facebook</button>
+                <button class="google-btn"><i class="fab fa-google"></i> Login com Google</button>
+            </div>
+        </form>
+
+        <form class="forgot-password-form" id="forgot-password-form">
+            <!-- Conteúdo do arquivo forgot-password.html aqui -->
+        </form>
+
+        <form class="signup-form" id="signup-form">
+            <!-- Conteúdo do arquivo signup.html aqui -->
+        </form>
+    </div>
+
+    <!-- Adicione este script no final do body -->
+    <script>
+        function showForgotPassword() {
+            document.getElementById('login-form').style.display = 'none';
+            document.getElementById('forgot-password-form').style.display = 'block';
+            document.getElementById('signup-form').style.display = 'none';
+        }
+
+        function showSignup() {
+            document.getElementById('login-form').style.display = 'none';
+            document.getElementById('forgot-password-form').style.display = 'none';
+            document.getElementById('signup-form').style.display = 'block';
+        }
+
+        function showLogin() {
+            document.getElementById('login-form').style.display = 'block';
+            document.getElementById('forgot-password-form').style.display = 'none';
+            document.getElementById('signup-form').style.display = 'none';
+        }
+    </script>
+
+</body>
+</html>
