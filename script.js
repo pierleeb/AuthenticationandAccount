@@ -1,3 +1,8 @@
+/*
+    Copyright (c) 2023 Pierleeb
+    SPDX-License-Identifier: MIT
+*/
+
 function login() {
     const username = document.getElementById('username').value;
     const password = document.getElementById('password').value;
