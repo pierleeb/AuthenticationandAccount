@@ -1,46 +1,46 @@
 # Authentication and Account
 
-Este repositório contém páginas HTML e CSS para criar uma interface de usuário de autenticação, incluindo páginas de login, alteração de senha e criação de conta. As páginas foram desenvolvidas com um design moderno e responsivo, utilizando HTML, CSS e JavaScript.
+This repository contains HTML and CSS pages to create an authentication user interface, including login, password change, and account creation pages. The pages were developed with a modern and responsive design, using HTML, CSS, and JavaScript.
 
-## Funcionalidades
+## Features
 
 1. **Login:**
-   - Interface de login simples e intuitiva.
-   - Suporte para login com Facebook e Google.
-   - Recuperação de senha e criação de conta integradas.
+   - Simple and intuitive login interface.
+   - Support for login with Facebook and Google.
+   - Integrated password recovery and account creation.
 
-2. **Esqueceu a Senha:**
-   - Página para redefinir a senha por meio do e-mail.
-   - Design amigável para uma experiência suave.
+2. **Forgot Password:**
+   - Page to reset the password via email.
+   - User-friendly design for a smooth experience.
 
-3. **Criação de Conta:**
-   - Formulário de registro com campos para nome de usuário, e-mail e senha.
-   - Validação de entrada para garantir informações corretas.
+3. **Account Creation:**
+   - Registration form with fields for username, email, and password.
+   - Input validation to ensure correct information.
 
-## Como Usar
+## How to Use
 
-1. Clone o repositório para o seu ambiente de desenvolvimento local.
+1. Clone the repository to your local development environment.
 
    ```bash
    git clone https://github.com/pierleeb/AuthenticationandAccount.git
    ```
 
-2. Abra as páginas HTML no seu navegador favorito.
+2. Open the HTML pages in your favorite browser.
 
-   - `index.html` para a página de login.
-   - `forgot-password.html` para a recuperação de senha.
-   - `signup.html` para a criação de conta.
+   - `index.html` for the login page.
+   - `forgot-password.html` for password recovery.
+   - `signup.html` for account creation.
 
-3. Personalize conforme necessário para atender às suas necessidades específicas.
+3. Customize as needed to meet your specific requirements.
 
-## Contribuição
+## Contribution
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias, correções de bugs ou novas funcionalidades.
+Contributions are welcome! Feel free to open issues and pull requests for improvements, bug fixes, or new features.
 
-## Licença
+## License
 
-Este projeto é licenciado sob a [Licença MIT](License.txt), o que significa que você pode usá-lo, modificá-lo e distribuí-lo livremente. Veja o arquivo LICENSE para mais detalhes.
+This project is licensed under the [MIT License](License.txt), which means you can use, modify, and distribute it freely. See the LICENSE file for more details.
 
 ---
 
-Desenvolvido por [pierleeb](https://github.com/pierleeb)
+Developed by [pierleeb](https://github.com/pierleeb)
